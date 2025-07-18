@@ -2,13 +2,6 @@
 
 🌟 Welcome to the Zomato Power BI Dashboard Project! 📊🍽️
 
-
-👉 [Click here to view the live dashboard]([https://app.powerbi.com/view?r=XYZ123](https://app.powerbi.com/reportEmbed?reportId=13c75a9a-d47d-4783-aee7-fb92b2cb94dd&autoAuth=true&ctid=21fc845e-e13e-4a83-b8b8-60c7f0206922))
-## 📊 Interactive Power BI Dashboard
-This dashboard analyzes Zomato sales using multiple relational tables including orders, customers, and food items.
-
-
-
 In this project, we explore valuable insights gleaned from analyzing Zomato's data using Power BI, a powerful business intelligence tool.
 
 ## Project Overview
