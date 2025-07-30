@@ -2,7 +2,6 @@
 
 🌟 Welcome to the Zomato Power BI Dashboard Project! 📊🍽️
 
-**Live Dashboard:** [Access the Power BI Dashboard](https://app.powerbi.com/groups/me/reports/13c75a9a-d47d-4783-aee7-fb92b2cb94dd/243723d67bc9488d258d?experience=power-bi)
 
 ---
   
